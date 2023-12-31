@@ -1,0 +1,25 @@
+div {
+    height: 150px;
+    width: 200px;
+    background-color: green;
+    border: 4px dotted red;
+    border-radius: 50%;
+    text-align: center;
+    margin: 10px;
+   
+}
+#div1 {
+    background-color: red;
+}
+#div2 {
+    background-color: yellow;
+} 
+#perent {
+    height: 520px ;
+    width: 230px;
+    border: 6px solid black;
+    background-color: white;
+    border-radius: 0%;
+  
+    margin: 10px;
+} 

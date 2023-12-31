@@ -1,0 +1,25 @@
+/* h1 {
+    color: 100,100,100;
+    text-align: calc();
+} */
+body,h1,h2 {
+    background: #887755;
+    color:rgb(17, 124, 35) ;
+   
+}
+h1,h2 {
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: capitalize;
+    text-decoration-color: aqua;
+}
+
+p {
+    text-align: left;
+    text-decoration: dotted;
+    text-size-adjust: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
