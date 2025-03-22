@@ -1,3 +1,2 @@
 let a = 10;
 console.log("Hello World");
-consol.log("Hello World");
